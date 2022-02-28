@@ -19,6 +19,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/kafka-%23323330.svg?logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/spark-F37626.svg?logo=apache-spark&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
