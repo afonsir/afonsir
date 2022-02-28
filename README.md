@@ -10,6 +10,7 @@
 
 ## ⚡ Technologies
 
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?logo=elixir&logoColor=white)
